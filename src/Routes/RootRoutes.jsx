@@ -3,7 +3,7 @@ import Footer from '../Footer/Footer'
 import {BrowserRouter,Routes,Route} from "react-router-dom"
 import {HomeRoutes} from '../Routes/HomeRoutes'
 import Movie from "../Page/Movie/Movie";
-import ShowInfo from "../page/ShowInfo/ShowInfo";
+import ShowInfo from "../Page/ShowInfo/ShowInfo";
 import TvShow from "../Page/Tv/TvShow";
 import { useContext } from "react";
 import { context } from "../Contaxt/ContaxtApi";
