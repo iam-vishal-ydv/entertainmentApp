@@ -23,7 +23,7 @@ function RootRoutes() {
            <Route path="/movie" element={<Movie/>}/>
            <Route path="/tv-show" element={<TvShow/>}/>
         </Routes>
-         {/* <Footer/> */}
+         <Footer/>
       </BrowserRouter>
       
     </>
